@@ -1,0 +1,15 @@
+{
+  "discount_sparsity": true,
+  "mem_o_FLOAT32": 32824.0,
+  "mem_w_SCALEDINT4": 3372.0,
+  "mem_w_SCALEDINT5": 45899.0,
+  "op_mac_FLOAT32_SCALEDINT5": 5095.0,
+  "op_mac_SCALEDINT5_SCALEDINT5": 44790.0,
+  "op_mac_SCALEDUINT4_SCALEDINT5": 26649.0,
+  "op_mac_SCALEDUINT5_SCALEDINT4": 13488.0,
+  "op_mac_SCALEDUINT5_SCALEDINT5": 733884.0,
+  "total_bops": 21084790.0,
+  "total_mem_o_bits": 1050368.0,
+  "total_mem_w_bits": 242983.0,
+  "unsupported": "{'Pow', 'Squeeze', 'Gather', 'Sign', 'ReduceMax', 'Greater', 'And', 'ReduceMean', 'Cast', 'Pad', 'Unsqueeze', 'Slice', 'Floor', 'Neg', 'Equal', 'ReduceSum', 'Atan', 'Where', 'Sqrt', 'Less', 'Abs'}"
+}
